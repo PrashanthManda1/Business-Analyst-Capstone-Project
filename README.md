@@ -1,6 +1,6 @@
 # Business-Analyst-Capstone-Project
 Restaurant Management System (Project)__
-I have completed this Project using Agile Scrum Concenpts, Tableau & Excel.
+I have completed this Project using Agile Scrum Concepts, Tableau & Excel.
 Identified Stakeholders, Created As-Is and Future Process mapping (using flowcharts),
 Identified main features that need to be developed,
 Identified in-scope and out-of-scope items for this software,
